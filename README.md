@@ -2,7 +2,7 @@ Hi, I’m @Hamish-Gibberd
 
 - 👀 I am currently competing my IT Bachelor with a focus on Software Engineering.
 - 🌱 I have a solid understanding of C#, Python, SQL, and Java.
-- 💞️ I am looking to further devalop my knowledge in Python as I have a intrest in Machine learning.
+- 💞️ I am looking to further develop my knowledge in Python as I have a intrest in Machine learning.
 - 📫 You can reach me at: Hamish.Gibberd@gmail.com 
 
 <!---
